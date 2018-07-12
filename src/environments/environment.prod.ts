@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl : 'https://banking-web-api-optimistic-aligator.cfapps.io/api/'
+  apiUrl : 'https://https://banking-dropwizard.cfapps.io/api/'
 };
